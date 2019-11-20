@@ -4,7 +4,7 @@
 
 namespace App\Shapes;
 
-class Circle
+class Circle implements ShapeInterface
 {
 
     private $radius;
