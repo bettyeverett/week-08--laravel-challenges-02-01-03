@@ -7,3 +7,4 @@ use App\Challenges;
 
 $challenges = new Challenges();
 $challenges->start();
+
